@@ -12,7 +12,7 @@ const Footer: React.FC = () => {
             <h2 className="text-3xl md:text-5xl font-extrabold text-[#004830] mb-4">
                 ভোট দিন, <span className="text-[#299617]">আগামীর জন্য।</span>
             </h2>
-            <p className="text-[#004830]/80 text-lg">আপনার একটি ভোট, কুমিল্লার পরিবর্তন।</p>
+            <p className="text-[#004830]/80 text-lg">আপনার একটি ভোট, গাজীপুরের পরিবর্তন।</p>
         </div>
 
         <div className="flex justify-center gap-6 mb-12">

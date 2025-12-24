@@ -17,7 +17,7 @@ const Hero: React.FC = () => {
           </h1>
           
           <p className="text-xl md:text-2xl text-[#004830]/80 font-medium mb-10 max-w-lg leading-relaxed">
-            স্বচ্ছতা ও সেবার অঙ্গীকার। আপনার কণ্ঠস্বর, আমাদের শক্তি। একটি আধুনিক কুমিল্লার স্বপ্নে আমরা ঐক্যবদ্ধ।
+            স্বচ্ছতা ও সেবার অঙ্গীকার। আপনার কণ্ঠস্বর, আমাদের শক্তি। একটি আধুনিক গাজীপুরের স্বপ্নে আমরা ঐক্যবদ্ধ।
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto">
@@ -62,7 +62,7 @@ const Hero: React.FC = () => {
                             </defs>
                             <text fontSize="11" fontWeight="bold" fill="#004830" letterSpacing="2">
                                 <textPath xlinkHref="#circle">
-                                   • ফরহাদ সোহেল    • কুমিল্লা-৪   
+                                   • ফরহাদ সোহেল    • গাজীপুর-৬   
                                 </textPath>
                             </text>
                         </svg>

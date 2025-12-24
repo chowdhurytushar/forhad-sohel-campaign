@@ -10,7 +10,7 @@ const manifestoItems: ManifestoItem[] = [
   { id: 5, title: 'দুর্নীতি মুক্ত সমাজ', category: 'Governance', videoUrl: 'https://images.unsplash.com/photo-1450101499163-c8848c66ca85?q=80&w=800&auto=format&fit=crop' },
   { id: 6, title: 'কৃষি উন্নয়ন', category: 'Agriculture', videoUrl: 'https://images.unsplash.com/photo-1625246333195-f8196ba083df?q=80&w=800&auto=format&fit=crop' },
   { id: 7, title: 'নারীর ক্ষমতায়ন', category: 'Empowerment', videoUrl: 'https://images.unsplash.com/photo-1573164713988-8665fc963095?q=80&w=800&auto=format&fit=crop' },
-  { id: 8, title: 'ডিজিটাল কুমিল্লা', category: 'Technology', videoUrl: 'https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=800&auto=format&fit=crop' },
+  { id: 8, title: 'ডিজিটাল গাজীপুর', category: 'Technology', videoUrl: 'https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=800&auto=format&fit=crop' },
   { id: 9, title: 'পরিবেশ সুরক্ষা', category: 'Environment', videoUrl: 'https://images.unsplash.com/photo-1542601906990-b4d3fb7d5b43?q=80&w=800&auto=format&fit=crop' },
   { id: 10, title: 'মাদক মুক্ত এলাকা', category: 'Social', videoUrl: 'https://images.unsplash.com/photo-1588611910609-0d3eb81353df?q=80&w=800&auto=format&fit=crop' },
 ];

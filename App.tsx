@@ -33,7 +33,7 @@ function App() {
   }
 
   return (
-    <div className="min-h-screen text-[#004830] selection:bg-[#299617]/30 selection:text-[#004830]">
+    <div className="min-h-screen text-[#FFFFFF] selection:bg-[#299617]/30 selection:text-[#004830]">
       <Background />
       <Navbar />
       
