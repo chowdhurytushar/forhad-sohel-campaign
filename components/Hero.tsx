@@ -43,8 +43,8 @@ const Hero: React.FC = () => {
             <div className="relative z-10 w-full h-full flex items-end justify-center">
                  {/* Using a placeholder image that represents a candidate. */}
                  <img 
-                    src="components\public\profile.png" 
-                    alt="Forhad Sohel" 
+                    src="/profile.png" 
+                    alt="Forhad Sohel"
                     className="h-full w-auto object-cover object-top mask-image-gradient rounded-b-[3rem] drop-shadow-2xl"
                     style={{
                         maskImage: 'linear-gradient(to bottom, black 80%, transparent 100%)',

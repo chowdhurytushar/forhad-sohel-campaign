@@ -15,7 +15,7 @@ const Biography: React.FC = () => {
         'কুমিল্লা জিলা স্কুল থেকে মাধ্যমিক এবং ভিক্টোরিয়া কলেজ থেকে উচ্চ মাধ্যমিক।',
         'বিতর্ক ও সাংস্কৃতিক কর্মকাণ্ডে জাতীয় পর্যায়ে পুরস্কারপ্রাপ্ত।'
       ],
-      image: 'components/public/Graduate.png'
+      image: '/Graduate.png'
     },
     professional: {
       title: 'পেশাগত অভিজ্ঞতা',
@@ -35,10 +35,9 @@ const Biography: React.FC = () => {
         'স্বচ্ছ রাজনীতি ও জবাবদিহিতার প্রবক্তা।',
         'কুমিল্লা-৪ আসনের মানুষের অধিকার আদায়ে নিরলস সংগ্রাম।'
       ],
-      image: 'components/public/politics.jpg'
+      image: '/politics.jpg'
     }
   };
-
   return (
     <section id="bio" className="py-24 px-4 relative overflow-hidden">
        {/* Background Elements */}
